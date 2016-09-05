@@ -1,2 +1,2 @@
 # puzzles
-Code puzzles and its solution I found on the web
+Solutions to various code puzzles I found on the web
