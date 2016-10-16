@@ -1,2 +1,2 @@
 #Playground
-Experiment examples and solutions to various code puzzles I found on the web
+Experiments and solutions for puzzles I found on the web
