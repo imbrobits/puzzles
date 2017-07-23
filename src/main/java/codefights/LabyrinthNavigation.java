@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * Solution for CodeFights weekly challenges
+ * misc.Solution for CodeFights weekly challenges
  * https://codefights.com/challenge/mMdsrajm7T9H87Noc/main
  *
  * TODO: check the list below
