@@ -1,0 +1,1 @@
+Solution for HackerEarth's Codemonk series
